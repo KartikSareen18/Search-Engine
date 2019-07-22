@@ -1,0 +1,32 @@
+cse 1 1 www.chitkara.edu.in/cse
+casts 1 1 www.chitkara.edu.in/cse
+chitkara 2 1 https://www.chitkara.edu.in/overview/ 4 1 https://www.chitkara.edu.in/engineering 5 2 https://www.chitkara.edu.in/ccae/ 6 1 https://www.chitkara.edu.in/architecture 7 2 https://www.chitkara.edu.in/arts/ 8 1 https://www.chitkara.edu.in/hospitality 9 1 https://www.chitkara.edu.in/pharmacy 10 2 https://www.chitkara.edu.in/healthscience
+colleges 4 1 https://www.chitkara.edu.in/engineering 6 1 https://www.chitkara.edu.in/architecture 8 1 https://www.chitkara.edu.in/hospitality 9 1 https://www.chitkara.edu.in/pharmacy
+chandigarh 4 1 https://www.chitkara.edu.in/engineering 6 1 https://www.chitkara.edu.in/architecture 8 1 https://www.chitkara.edu.in/hospitality 9 1 https://www.chitkara.edu.in/pharmacy
+college 5 1 https://www.chitkara.edu.in/ccae/
+a 1 1 www.chitkara.edu.in/cse
+applied 5 1 https://www.chitkara.edu.in/ccae/
+architecture 6 1 https://www.chitkara.edu.in/architecture
+and 6 1 https://www.chitkara.edu.in/architecture 7 1 https://www.chitkara.edu.in/arts/ 8 1 https://www.chitkara.edu.in/hospitality
+art 7 1 https://www.chitkara.edu.in/arts/
+winning 1 1 www.chitkara.edu.in/cse
+streak 1 1 www.chitkara.edu.in/cse
+school 7 1 https://www.chitkara.edu.in/arts/ 10 1 https://www.chitkara.edu.in/healthscience
+sciences 10 1 https://www.chitkara.edu.in/healthscience
+in 1 1 www.chitkara.edu.in/cse 4 1 https://www.chitkara.edu.in/engineering 6 1 https://www.chitkara.edu.in/architecture 8 1 https://www.chitkara.edu.in/hospitality 9 1 https://www.chitkara.edu.in/pharmacy
+india 4 1 https://www.chitkara.edu.in/engineering 9 1 https://www.chitkara.edu.in/pharmacy
+t 1 1 www.chitkara.edu.in/cse
+tournament 1 1 www.chitkara.edu.in/cse
+top 6 1 https://www.chitkara.edu.in/architecture 8 1 https://www.chitkara.edu.in/hospitality 9 1 https://www.chitkara.edu.in/pharmacy
+overview 2 1 https://www.chitkara.edu.in/overview/
+of 5 1 https://www.chitkara.edu.in/ccae/ 7 1 https://www.chitkara.edu.in/arts/ 10 1 https://www.chitkara.edu.in/healthscience
+university 2 1 https://www.chitkara.edu.in/overview/ 5 1 https://www.chitkara.edu.in/ccae/ 6 1 https://www.chitkara.edu.in/architecture 7 1 https://www.chitkara.edu.in/arts/ 8 1 https://www.chitkara.edu.in/hospitality 9 1 https://www.chitkara.edu.in/pharmacy 10 1 https://www.chitkara.edu.in/healthscience
+best 4 1 https://www.chitkara.edu.in/engineering
+engineering 4 1 https://www.chitkara.edu.in/engineering 5 1 https://www.chitkara.edu.in/ccae/
+punjab 4 1 https://www.chitkara.edu.in/engineering 6 1 https://www.chitkara.edu.in/architecture 8 1 https://www.chitkara.edu.in/hospitality 9 1 https://www.chitkara.edu.in/pharmacy
+pharmacy 9 1 https://www.chitkara.edu.in/pharmacy
+north 4 1 https://www.chitkara.edu.in/engineering
+design 7 1 https://www.chitkara.edu.in/arts/
+hospitality 8 1 https://www.chitkara.edu.in/hospitality
+health 10 1 https://www.chitkara.edu.in/healthscience
+management 8 1 https://www.chitkara.edu.in/hospitality
